@@ -49,7 +49,7 @@ export default function GreenLeafSignUp() {
                 value={formData.name}
                 onChange={handleInputChange}
                 className="w-full pl-10 pr-4 py-3 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent text-gray-700"
-                placeholder="JonIDoe@gmail.com"
+                placeholder="Alhamari Nura"
               />
             </div>
 
