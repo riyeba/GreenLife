@@ -4,7 +4,7 @@ import { User, Mail, Lock } from 'lucide-react';
 export default function GreenLeafSignUp() {
   const [formData, setFormData] = useState({
     name: 'Alhamari Naif',
-    email: 'JonIDoe@gmail.com',
+    email: 'Naif@gmail.com',
     password: '......'
   });
 
